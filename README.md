@@ -1,4 +1,4 @@
-# biography
+# biography <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVpdGxjd3A1ZWY0b3JzaXp4emxkajBuM3d6MzNscW1tbGx0NXpsMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Oa4MnoTkoAoAm4ubiK/giphy.webp" hieght="25px">
 This is my site about me and you can enjoy
 # How to customize it 
 for *customize* it your hand is free first lest go step by step 
