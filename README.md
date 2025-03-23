@@ -8,5 +8,5 @@ for *customize* it your hand is free first lest go step by step
 - in line `25~31` you can change the position of the spotify embed you want
 - in line `106` you can change the spotify embed that you like the most *:D*
 - in lines `113~130` change the social medias that you like
-# Thats it
+# Thats it ,img src="https://giphy.com/gifs/moodman-fun-having-have-lmv5aDvwOgTmby3a13' height="40px">
 have some fun with this biography site ;D
